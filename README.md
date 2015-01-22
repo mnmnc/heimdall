@@ -2,9 +2,9 @@
 Server monitoring over HTTP
 
 // TODO
--process termination buttons (kill -15)
--table align on dashboard
--check if swipe detection is possible (yep: http://www.javascriptkit.com/javatutors/touchevents2.shtml)
+- process termination buttons (kill -15)
+- table align on dashboard
+- check if swipe detection is possible (yep: http://www.javascriptkit.com/javatutors/touchevents2.shtml)
  
  
 
